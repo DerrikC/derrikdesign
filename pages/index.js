@@ -5,6 +5,8 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
+import Contact from "../components/contact"
+
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
@@ -29,10 +31,16 @@ export default function Index({ allPosts }) {
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
+
+        <div>
+          <Contact/>
+        </div>
+        
       </Layout>
     </>
   )
 }
+
 
 export async function getStaticProps() {
   const allPosts = getAllPosts([
