@@ -6,7 +6,7 @@ I am teaching myself how to use Next.js to speed up my application development w
 
 ## Goals
 
-To create a portfolio website.
+To create a portfolio website that showcases my latest work.
 
 ## About Next.js
 - [Documentation](https://nextjs.org/docs)
