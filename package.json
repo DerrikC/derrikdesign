@@ -19,6 +19,7 @@
     "react-autosize-textarea": "^7.0.0",
     "react-bootstrap": "^1.1.1",
     "react-dom": "^16.13.0",
+    "react-typical": "^0.1.3",
     "remark": "11.0.2",
     "remark-html": "10.0.0",
     "sass": "^1.26.10"

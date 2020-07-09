@@ -20,6 +20,7 @@ To create a portfolio website that showcases my latest work.
 * [Next.js](https://nextjs.org/) - React Framework
 * [Sass](https://sass-lang.com/) - CSS compiler
 * [React-Bootstrap](https://react-bootstrap.github.io/) - React Bootstrap
+* [React-Typical](https://github.com/catalinmiron/react-typical) - Animation
 
 **VS Code**
 
