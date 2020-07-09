@@ -1,4 +1,6 @@
+import React, { Component } from 'react'
 import Button from 'react-bootstrap/Button'
+import Typical from 'react-typical'
 
 export default function Intro() {
 
@@ -10,8 +12,24 @@ export default function Intro() {
       <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">
       Hi, my name is Derrik Campbell. 
       </h1>
-      <h2 className="text-black-50">
-      I am a passionate Visual|designer.
+      <h2 className="text-black-50 text-4xl md:text-4xl">
+      I'm a
+
+      <Typical 
+      loop={Infinity}
+      wrapper="b"
+      steps={[
+        ' designer.',
+        1000,
+        ' developer.',
+        1000,
+        ' digital illustrator.',
+        1000,
+        ' UI/UX designer.',
+        1000
+      ]}
+      />
+
       <br/>
       Currently Freelancing.
       </h2>
