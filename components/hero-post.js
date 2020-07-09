@@ -1,5 +1,4 @@
 import Avatar from '../components/avatar'
-import DateFormater from '../components/date-formater'
 import CoverImage from '../components/cover-image'
 import Link from 'next/link'
 
@@ -24,7 +23,6 @@ export default function HeroPost({
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
-            <DateFormater dateString={date} />
           </div>
         </div>
         <div>
