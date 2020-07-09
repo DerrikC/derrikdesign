@@ -7,7 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
     "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
     "classnames": "2.2.6",
     "date-fns": "2.10.0",
     "gray-matter": "4.0.2",
@@ -15,9 +17,11 @@
     "nodemailer": "^6.4.10",
     "react": "^16.13.0",
     "react-autosize-textarea": "^7.0.0",
+    "react-bootstrap": "^1.1.1",
     "react-dom": "^16.13.0",
     "remark": "11.0.2",
-    "remark-html": "10.0.0"
+    "remark-html": "10.0.0",
+    "sass": "^1.26.9"
   },
   "devDependencies": {
     "postcss-preset-env": "^6.7.0",

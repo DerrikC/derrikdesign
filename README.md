@@ -16,9 +16,10 @@ To create a portfolio website that showcases my latest work.
 ## Built With
 
 * HTML5 - Layout
-* CSS3 - Styling
+* CSS3 - Tailwind.css
 * [Next.js](https://nextjs.org/) - React Framework
 * [Sass](https://sass-lang.com/) - CSS compiler
+* [React-Bootstrap](https://react-bootstrap.github.io/) - React Bootstrap
 
 **VS Code**
 
@@ -51,4 +52,4 @@ npm run dev
 
 A statically generated application example using Next.js and Markdown
 
-This application uses [Tailwind CSS](https://tailwindcss.com). To control the generated stylesheet's filesize, this example uses Tailwind CSS' v1.4 [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css) to remove unused CSS.
+
