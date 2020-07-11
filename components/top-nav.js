@@ -3,10 +3,9 @@ import Link from 'next/link'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 
-
 export default function TopNav() {
     return (
-        <nav className="top-nav">  
+        <nav className="top-nav border-b">  
             <Navbar bg="white" expand="lg">
             <Navbar.Brand href="#home">
           
@@ -34,3 +33,6 @@ export default function TopNav() {
       
     )
   }
+
+
+

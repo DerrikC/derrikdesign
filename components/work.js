@@ -1,4 +1,3 @@
-
 import PostPreview from './post-preview'
 
 export default function Work({ posts }) {
