@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Button from 'react-bootstrap/Button'
 import Typical from 'react-typical'
+import { motion } from 'framer-motion'
 
 export default function Intro() {
 
@@ -8,11 +9,11 @@ export default function Intro() {
     
   
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-32 mb-16 md:mb-12">
-      <div>
+      <motion.div initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 0.5  }}>
       <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">
       Hi, my name is Derrik Campbell. 
       </h1>
-      <h2 className="text-black-50 text-4xl md:text-4xl">
+      <motion.h2 initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1  }} className="text-black-50 text-4xl md:text-4xl">
       I'm a
 
       <Typical 
@@ -32,10 +33,14 @@ export default function Intro() {
 
       <br/>
       Currently Freelancing.
-      </h2>
+      </motion.h2>
       <br/>
+      
+      <motion.div initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1.5 }}>
       <Button variant="outline-dark" size="sm">Learn More</Button>
-      </div>
+      </motion.div>
+
+      </motion.div>
     
 
       {/* <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">

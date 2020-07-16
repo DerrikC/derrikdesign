@@ -2,7 +2,7 @@
 # derrikdesign
 
 I am teaching myself how to use Next.js to speed up my application development workflow. I'm following the lessons and documentation provided by Next.js. 
-[Learn Next.js](https://nextjs.org/learn).
+[Learn Next.js](https://nextjs.org/learn). Next.js allows you to use server side rendering in React, which is ideal for the best SEO results. 
 
 ## Goals
 
@@ -21,6 +21,7 @@ To create a portfolio website that showcases my latest work.
 * [Sass](https://sass-lang.com/) - CSS compiler
 * [React-Bootstrap](https://react-bootstrap.github.io/) - React Bootstrap
 * [React-Typical](https://github.com/catalinmiron/react-typical) - Animation
+* [Framer-Motion](https://www.framer.com/motion/) - (React Library) Animation
 
 **VS Code**
 

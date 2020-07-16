@@ -6,7 +6,7 @@ export default function Footer() {
       <Container>
         <div className="py-28 flex flex-col items-center">
           <div className="flex flex-col text-black-50 lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-              derrikdesign © 2020 | All rights reserved.
+              <h8>derrikdesign © 2020 | All rights reserved.</h8>
           </div>
         </div>
       </Container>

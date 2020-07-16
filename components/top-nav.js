@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 
+
 export default function TopNav() {
     return (
         <nav className="top-nav border-b">  
@@ -17,6 +18,7 @@ export default function TopNav() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
+            <Nav.Link href="/#">Work</Nav.Link>
             <Nav.Link href="/services">Services</Nav.Link>
             <Nav.Link href="/about">About</Nav.Link>
 
@@ -26,7 +28,6 @@ export default function TopNav() {
            
             <a href="mailto:derrikdesign@gmail.com" class="btn btn-light" role="button" aria-pressed="true">Contact</a>
         
-
             </Navbar.Collapse>
             </Navbar>
       </nav> 
