@@ -19,20 +19,18 @@ export default function Intro() {
       </h1>
       <motion.h2 initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1 }} className="text-black-50 text-4xl md:text-4xl">
       I'm a
-      
-      <Typical 
+      <Typical className="typing" 
       loop={Infinity}
-      wrapper="b"
+      wrapper="m"
       steps={[
         ' designer.',
         1000,
         ' developer.',
         1000,
-        ' digital illustrator.',
+        ' draftsman.',
         1000
       ]}
       />
-
       <br/>
       Currently Freelancing.
       </motion.h2>

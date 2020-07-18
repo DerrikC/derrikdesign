@@ -6,7 +6,7 @@ import Nav from 'react-bootstrap/Nav'
 
 export default function TopNav() {
     return (
-        <nav className="top-nav border-b p-2">  
+        <nav className="top-nav border-b">  
             <Navbar bg="white" expand="lg">
             <Navbar.Brand href="#home">
           

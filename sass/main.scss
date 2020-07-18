@@ -9,28 +9,9 @@ p a:hover {
      text-decoration: underline;
   }
   
-// Linked section pages
-.pages-container {
-    margin: 85px 50px 50px 50px;
+
+.typing {
+  color: $main-accent;
+  padding: 0;
+  margin: 0;
 }
-
-//About page
-
-.pages-container {
-    margin: 35px;
-}
-
-.profile-image {
-    padding-right: 45px;
-    padding-bottom: 35px;
-    max-width: 300px;
-    max-height: 300px;
-    float: left;
-}
-
-.about-text {
-    padding: 25px;
-    max-width: 1080px;
-}
-
-
