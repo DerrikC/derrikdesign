@@ -29,8 +29,6 @@ export default function Intro() {
         ' developer.',
         1000,
         ' digital illustrator.',
-        1000,
-        ' UI/UX designer.',
         1000
       ]}
       />
