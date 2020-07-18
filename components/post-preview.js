@@ -1,6 +1,7 @@
 import Avatar from './avatar'
 import DateFormater from './date-formater'
 import CoverImage from './cover-image'
+import { motion } from 'framer-motion'
 
 export default function PostPreview({
   title,
@@ -12,9 +13,12 @@ export default function PostPreview({
 }) {
   return (
     <div>
-      <div className="mb-4 rounded">
+      <motion.div
+          whileHover={{ scale: 1.1 }}
+          whileTap={{ scale: 0.9 }}
+          className="mb-4 rounded">
         <CoverImage slug={slug} title={title} src={coverImage} />
-      </div>
+      </motion.div>
       <h3 className="text-lg mb-2">
           <a className="text-dark">{title}</a>
       </h3>
@@ -25,3 +29,5 @@ export default function PostPreview({
     </div>
   )
 }
+
+
