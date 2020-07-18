@@ -1,6 +1,6 @@
 ---
-title: 'Project 4'
-excerpt: 'Lorem ipsum dolor.'
+title: 'Exploration'
+excerpt: 'Illustration'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:

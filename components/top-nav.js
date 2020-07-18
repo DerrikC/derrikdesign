@@ -6,7 +6,7 @@ import Nav from 'react-bootstrap/Nav'
 
 export default function TopNav() {
     return (
-        <nav className="top-nav border-b">  
+        <nav className="top-nav border-b p-2">  
             <Navbar bg="white" expand="lg">
             <Navbar.Brand href="#home">
           
@@ -19,7 +19,7 @@ export default function TopNav() {
             <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
             <Nav.Link href="/#">Work</Nav.Link>
-            <Nav.Link href="/services">Services</Nav.Link>
+            {/* <Nav.Link href="/services">Services</Nav.Link> */}
             <Nav.Link href="/about">About</Nav.Link>
 
             </Nav>

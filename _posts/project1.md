@@ -1,6 +1,6 @@
 ---
 title: 'Project 1'
-excerpt: 'Lorem ipsum dolor.'
+excerpt: 'Web Design'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
