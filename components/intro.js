@@ -9,7 +9,7 @@ export default function Intro() {
 
   return (
     
-    <section className="flex-col sm:w-auto md:flex-row w-full p-1 flex items-center md:justify-between mt-20 mb-16 md:mb-12 ">
+    <section className="flex-col sm:w-auto md:flex-row w-full flex items-center md:justify-between mt-32">
       <div className="md:flex-row md:w-4/5">
       <motion.div initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 0.5 }}>
       <h1 className="text-5xl md:text-7xl font-bold tracking-tighter leading-tight md:pr-8">
@@ -40,7 +40,7 @@ export default function Intro() {
       <Button variant="outline-dark" size="lg">Learn More</Button>
       
       </motion.div> */}
-      <motion.p className="text-black-50" initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1.5 }}>
+      <motion.p className="text-black-50 mb-12" initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1.5 }}>
       <Link 
           activeClass="active"
           to="work"
@@ -63,7 +63,7 @@ export default function Intro() {
       animate={{ y: 0 }} 
       transition={{ yoyo: Infinity, duration: 2 }}>
       </motion.img>
-      {/* <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+      {/* <h4 className=" md:text-left text-lg mt-5 md:pl-8">
       I am a passionate Visual|designer. {' '}
       Currently Freelancing and building a portfolio site using Next.js. Here's my current portfolio: 
         <a
