@@ -1,13 +1,13 @@
 ---
-title: 'Project 3'
-excerpt: 'UI UX Design'
-coverImage: '/assets/blog/preview/cover1.jpg'
+title: 'Realtor®'
+excerpt: 'Branding'
+coverImage: '/assets/blog/preview/mike_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Project 3
   picture: '/assets/blog/authors/placeholderIcon.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover1.jpg'
+  url: '/assets/blog/preview/mike_cover.jpg'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
