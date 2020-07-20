@@ -4,7 +4,7 @@ excerpt: 'Branding'
 coverImage: '/assets/blog/preview/mike_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Project 3
+  name: Branding
   picture: '/assets/blog/authors/placeholderIcon.jpeg'
 ogImage:
   url: '/assets/blog/preview/mike_cover.jpg'

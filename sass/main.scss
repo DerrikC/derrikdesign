@@ -1,17 +1,36 @@
 @import "sass/_vars";
 
-p a {
-    color: $main-accent;
-  }
-
-p a:hover {
-     color: #323232;
-     text-decoration: underline;
-  }
-  
-
+//intro
 .typing {
   color: $main-accent;
   padding: 0;
   margin: 0;
 }
+
+//about page
+p a {
+    color: $main-accent;
+  }
+
+p a:hover {
+     color: #343A40;
+     text-decoration: underline;
+  }
+  
+
+//project link
+.project-title a {
+  color: #7F7F7F;
+  font-size: 1rem;
+}
+
+.project-title a:hover {
+  color: #343A40;
+  text-decoration: none;
+}
+
+nav .top-nav{
+  background-color: $main-accent;
+}
+
+

@@ -11,7 +11,7 @@ const about = () => (
     <section>
         <Layout>  
         <Head>
-          <title>derrikdesign | about</title>
+          <title>derrikdesign | About</title>
         </Head>
      
         <div className="flex-col md:flex-row flex items-center md:justify-between mt-10 mb-16 md:mb-12 py-20">
