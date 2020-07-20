@@ -17,7 +17,7 @@ const about = () => (
         <div className="flex-col md:flex-row flex items-center md:justify-between mt-10 mb-16 md:mb-12 py-20">
         
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }} className="container mx-auto px-5">
-        <h1 className="text-5xl md:text-7xl font-bold tracking-tighter leading-tight md:pr-8 pb-10">  Greetings - I'm Derrik! 👽</h1>
+        <h1 className="text-5xl md:text-7xl font-bold tracking-tighter leading-tight md:pr-8 pb-10">  Greetings! 👽</h1>
 
         <div className="flex md:flex-row-reverse flex-wrap">
        
@@ -27,7 +27,7 @@ const about = () => (
         <h2 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">Let's get Working</h2>
         <p>Just send me a message at <a href="">derrikdesign@gmail.com</a>, connect on <a href="">LinkedIn</a>, or checkout my <a href="">Dribbble</a>!</p>
         </div>
-        <div class="w-full md:w-1/3 pt-2 pr-10 ">
+        <div class="w-full md:w-1/3 pt-2 pr-10">
         
         <img className="profile-image shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl" variant="top" src="../assets/blog/authors/placeholderIcon.jpeg" />
         </div>

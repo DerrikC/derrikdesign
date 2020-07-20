@@ -1,6 +1,6 @@
 ---
-title: 'Realtor®'
-excerpt: 'Branding'
+title: 'Project 2'
+excerpt: 'UI UX Design'
 coverImage: '/assets/blog/preview/cover1.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
