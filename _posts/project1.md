@@ -4,7 +4,7 @@ excerpt: 'Web Design'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Project 1
+  name: Web Design
   picture: '/assets/blog/authors/placeholderIcon.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'

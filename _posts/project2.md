@@ -4,7 +4,7 @@ excerpt: 'UI UX Design'
 coverImage: '/assets/blog/preview/cover1.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Project 2
+  name: UI UX Design
   picture: '/assets/blog/authors/placeholderIcon.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover1.jpg'

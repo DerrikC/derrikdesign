@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Button from 'react-bootstrap/Button'
 import Typical from 'react-typical'
 import { motion } from 'framer-motion'
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link, animateScroll as scroll } from 'react-scroll'
 
 
 export default function Intro() {

@@ -4,7 +4,7 @@ excerpt: 'Illustration'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Project 4
+  name: Illustration
   picture: '/assets/blog/authors/placeholderIcon.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
