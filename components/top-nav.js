@@ -11,7 +11,7 @@ export default function TopNav() {
             <Navbar.Brand href="#home">
           
             <Link href="/">
-                <a className="font-bold text-2xl mt-10 mb-2 text-dark tracking-tight md:tracking-tighter leading-tight hover:underline text-xl">derrikdesign</a>
+                <a className="font-bold text-2xl mt-10 mb-2 text-dark tracking-tight md:tracking-tighter leading-tight hover:underline text-xl ml-8">derrikdesign</a>
             </Link>
     
             </Navbar.Brand>

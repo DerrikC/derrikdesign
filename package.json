@@ -18,7 +18,7 @@
     "nodemailer": "^6.4.10",
     "react": "^16.13.0",
     "react-autosize-textarea": "^7.0.0",
-    "react-bootstrap": "^1.1.1",
+    "react-bootstrap": "^1.2.2",
     "react-dom": "^16.13.0",
     "react-scroll": "^1.8.0",
     "react-spring": "^8.0.27",

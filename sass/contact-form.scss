@@ -8,66 +8,66 @@
 //     padding-left: 12px;
 //     padding-right: 12px;
 // }
-.col-4,
-.col-8 {
-    padding: 8px 12px;
-    box-sizing: border-box;
-}
-.col-4 {
-    flex-basis: 50%;
-    max-width: 50%;
-}
-.col-8 {
-    flex-basis: 100%;
-    max-width: 100%;
-}
+// .col-4,
+// .col-8 {
+//     padding: 8px 12px;
+//     box-sizing: border-box;
+// }
+// .col-4 {
+//     flex-basis: 50%;
+//     max-width: 50%;
+// }
+// .col-8 {
+//     flex-basis: 100%;
+//     max-width: 100%;
+// }
 
-@media only screen and (max-width: 768px) {
-    .grid {
-        flex-direction: column;
-        padding-left: 0px;
-        padding-right: 0px;
-    }
-    .col-4,
-    .col-8 {
-        padding-left: 24px;
-        padding-right: 24px;
-        flex-basis: 100%;
-        max-width: 100%;
-    }
-}
-input[type=text], input[type=email] {
-    height: 48px;
-    width: 100%;
-    border: none;
-    border-radius: 0px;
-    border-bottom: 1px solid #121212;
-    margin: 8px 0px;
-    box-shadow: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    padding: 0px;
-    outline: none;
-}
-::placeholder {
-    color: #C8CBCE;
-}
-::-ms-input-placeholder {
-    color: #C8CBCE;
-}
-button {
-    padding: 0px 24px;
-    height: 48px;
-    background-color: #000000;
-    margin: 16px 0px;
-    border: none;
-    border-radius: 0px;
-    cursor: pointer;
-    color: #fff;
-}
-.disabled {
-    background-color: #fff;
-    color: #121212;
-    cursor: auto;
-    padding-left: 0px;
-}
+// @media only screen and (max-width: 768px) {
+//     .grid {
+//         flex-direction: column;
+//         padding-left: 0px;
+//         padding-right: 0px;
+//     }
+//     .col-4,
+//     .col-8 {
+//         padding-left: 24px;
+//         padding-right: 24px;
+//         flex-basis: 100%;
+//         max-width: 100%;
+//     }
+// }
+// input[type=text], input[type=email] {
+//     height: 48px;
+//     width: 100%;
+//     border: none;
+//     border-radius: 0px;
+//     border-bottom: 1px solid #121212;
+//     margin: 8px 0px;
+//     box-shadow: none;
+//     -webkit-appearance: none;
+//     -moz-appearance: none;
+//     padding: 0px;
+//     outline: none;
+// }
+// ::placeholder {
+//     color: #C8CBCE;
+// }
+// ::-ms-input-placeholder {
+//     color: #C8CBCE;
+// }
+// button {
+//     padding: 0px 24px;
+//     height: 48px;
+//     background-color: #000000;
+//     margin: 16px 0px;
+//     border: none;
+//     border-radius: 0px;
+//     cursor: pointer;
+//     color: #fff;
+// }
+// .disabled {
+//     background-color: #fff;
+//     color: #121212;
+//     cursor: auto;
+//     padding-left: 0px;
+// }
