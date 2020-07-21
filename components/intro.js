@@ -21,7 +21,7 @@ export default function Intro() {
       I'm a
       <Typical className="typing" 
       loop={Infinity}
-      wrapper="m"
+      wrapper="abbr"
       steps={[
         ' designer.',
         1000,
@@ -31,7 +31,7 @@ export default function Intro() {
         1000
       ]}
       />
-      <br/>
+       <br/>
       Currently Freelancing.
       </motion.h2>
       <br/>
@@ -40,7 +40,7 @@ export default function Intro() {
       <Button variant="outline-dark" size="lg">Learn More</Button>
       
       </motion.div> */}
-      <motion.p className="text-black-50 mb-12" initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1.5 }}>
+      <motion.p className="scroll-down text-black-50 mb-12" initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1.5 }}>
       <Link 
           activeClass="active"
           to="work"
