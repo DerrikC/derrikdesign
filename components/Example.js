@@ -8,7 +8,7 @@ import Link from 'next/link'
 
 
 const sidebar = {
-  open: (height = 6000) => ({
+  open: (height = 1000) => ({
     clipPath: `circle(${height * 2 + 200}px at 40px 40px)`,
     transition: {
       type: "spring",
