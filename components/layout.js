@@ -4,7 +4,6 @@ import Meta from '../components/meta'
 import TopNav from '../components/top-nav'
 import { Example } from "./Example";
 
-
 export default function Layout({ preview, children }) {
   return (
     <>

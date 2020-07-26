@@ -51,13 +51,10 @@ export default function Intro() {
       >↓ scroll down to view my work
       </Link>
       </motion.p>
-
       </motion.div>
-      
 
       </div>
 
-    
       <motion.img className="sm:flex-row sm:w-3/5 md:w-2/4" variant="top" src="../assets/blog/preview/3daccent.png" 
       initial= {{ y: 10 }} 
       animate={{ y: 0 }} 

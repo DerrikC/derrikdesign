@@ -1,14 +1,16 @@
 ---
-title: 'Project 2'
-excerpt: 'UI UX Design'
-coverImage: '/assets/blog/preview/cover1.jpg'
+title: 'Bloovu'
+excerpt: 'Web Design'
+coverImage: '/assets/blog/preview/bloovu_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: UI UX Design
-  picture: '/assets/blog/authors/placeholderIcon.jpeg'
+  name: Web Design
+  picture: '/assets/blog/author/icon-bloovu.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover1.jpg'
+  url: '/assets/blog/preview/bloovu_cover.jpg'
 ---
+
+[View Site](https://derrikxavier-fanshawe.myshopify.com/?_ab=0&_fd=0&_sc=1&key=3d3fc8ce0fd8e9001c0f73b8892f33754cc481de3d038dcfd0297cd4081dcb93) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 

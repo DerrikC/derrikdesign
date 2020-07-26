@@ -40,6 +40,12 @@ p a:hover {
   text-decoration: none;
 }
 
+img[alt='project_gif'] { 
+  max-width: 200px; 
+  display: block;
+  margin: 0 auto;
+}
+
 // nav .top-nav{
 //   background-color: $main-accent;
 // }
