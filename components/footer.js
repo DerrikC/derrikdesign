@@ -1,9 +1,8 @@
 import Container from './container'
-import Link from 'next/link'
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2">
+    <footer className="bg-gray-100 bg-accent-1 border-t border-accent-2">
       <Container>
     
         <div className="py-28 flex flex-col items-center">
