@@ -27,7 +27,7 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Portfolio Site {CMS_NAME}
+                  {post.title} | Portfolio 
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>

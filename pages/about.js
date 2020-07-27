@@ -30,11 +30,8 @@ const about = () => (
         </div>
         <div className="w-full md:w-1/3 pt-2 pr-10">
         
-        <img className="profile-image shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl" variant="top" src="../assets/blog/author/placeholderIcon.jpeg" />
+        <img className="profile-image shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl" variant="top" img src="/assets/blog/author/profile.jpg"/>
         </div>
-
-
-
         {/* <Button variant="outline-dark" size="sm">View Resume</Button> */}
         </div>
         </motion.div>

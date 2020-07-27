@@ -11,7 +11,11 @@ ogImage:
 
 ---
 
-[View Site](https://sickle-cell-infographic.herokuapp.com/) 
+| Role   | Tools    | 
+| :----- | :------- |
+| Designer & Developer  &nbsp;| HTML5, CSS3, JS, Node.js, Illustrator, MySQL |
+
+[Load App](https://sickle-cell-infographic.herokuapp.com/) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
