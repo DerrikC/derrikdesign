@@ -4,6 +4,13 @@
 I am teaching myself how to use Next.js to speed up my application development workflow. I'm following the lessons and documentation provided by Next.js. 
 [Learn Next.js](https://nextjs.org/learn). Next.js allows you to use server side rendering in React, which is ideal for the best SEO results. 
 
+## What I've learned so far:
+- How to use a React
+- Markdown Syntax
+- How to use React Libraries for Animation
+- File Compression Practices 
+- How to implement Webp files
+
 ## Goals
 
 To create a portfolio website that showcases my latest work.
