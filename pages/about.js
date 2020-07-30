@@ -27,7 +27,7 @@ const about = () => (
         <br></br>
         <h2 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">Let's get Working</h2>
         <br></br>
-        <p>Interested in working with me? Just contact me at <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=derrikdesign@gmail.com">derrikdesign@gmail.com</a>, or connect on <a href="https://www.linkedin.com/in/derrikcampbell/">LinkedIn</a>!</p>
+        <p>Want to work on a project, or get to know me? Just contact me at <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=derrikdesign@gmail.com">derrikdesign@gmail.com</a>, or connect on <a href="https://www.linkedin.com/in/derrikcampbell/">LinkedIn</a>!</p>
         </div>
         <div className="w-full md:w-1/3 pt-2 pr-10">
         
