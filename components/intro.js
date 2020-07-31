@@ -32,7 +32,7 @@ export default function Intro() {
       ]}
       />
        <br/>
-      Currently Freelancing.
+      Recent graduate.
       </motion.h2>
       <br/>
 
@@ -56,9 +56,9 @@ export default function Intro() {
       </div>
 
       <motion.img className="sm:flex-row sm:w-3/5 md:w-2/4" variant="top" src="../assets/blog/preview/3daccent.png" 
-      initial= {{ y: 10 }} 
+      initial= {{ y: 15 }} 
       animate={{ y: 0 }} 
-      transition={{ yoyo: Infinity, duration: 2 }}>
+      transition={{ yoyo: Infinity, duration: 4 }}>
       </motion.img>
       {/* <h4 className=" md:text-left text-lg mt-5 md:pl-8">
       I am a passionate Visual|designer. {' '}

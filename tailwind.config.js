@@ -22,6 +22,11 @@ module.exports = {
         success: '#0070f3',
         cyan: '#79FFE1',
       },
+      textColor: {
+        'primary': '#000000',
+        'secondary': '#00BB99',
+        'danger': '#e3342f',
+                 },
       spacing: {
         28: '7rem',
       },

@@ -2,7 +2,7 @@
 title: 'Lunachat'
 excerpt: 'Mobile App'
 coverImage: '/assets/blog/preview/lunachat.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: ''
 author:
   name: Mobile App
   picture: '/assets/blog/author/icon-lunachat.jpeg'
@@ -18,7 +18,7 @@ ogImage:
 ## Overview
 
 Lunachat is a messenger chat application that is open to
-the public. Users can choose a nickname or be
+the public. Users can create a nickname or be
 anonymous when using the application.
 
 ## Lorem Ipsum

@@ -27,3 +27,7 @@ I lead the direction of the social media marketing and designs. I created a styl
 ![project_gif](../assets/blog/preview/instamock_smaller.gif)
 
 ## Bench Advertisement
+
+I designed a custom bench advertisement that follows the styleguide I created, while also meeting the standards of the sign printers and Royal Lepage's branding guidelines. 
+
+![project_image](../assets/blog/preview/mikebussign.jpg)
