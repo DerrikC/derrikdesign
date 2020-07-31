@@ -1,5 +1,5 @@
 import Avatar from './avatar'
-import DateFormater from './date-formater'
+// import DateFormater from './date-formater'
 import CoverImage from './cover-image'
 import { motion } from 'framer-motion'
 import TitleLink from './title-link'
@@ -7,7 +7,7 @@ import TitleLink from './title-link'
 export default function PostPreview({
   title,
   coverImage,
-  date,
+  // date,
   excerpt,
   author,
   slug,
