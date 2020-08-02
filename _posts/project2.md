@@ -4,7 +4,7 @@ excerpt: 'Web Design'
 coverImage: '/assets/blog/preview/bloovu_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Web Design
+  name: Web & Brand Design
   picture: '/assets/blog/author/icon-bloovu.jpeg'
 ogImage:
   url: '/assets/blog/preview/bloovu_cover.jpg'
@@ -25,4 +25,32 @@ Learning Shopify coding language liquid, implementing proper visual studio code 
 
 ## Solution 
 
-I took the Shopify Partner courses to keep update with best pratices.
+I took the Shopify Partner courses to keep up to date with best pratices.
+
+## Style Guide
+
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-01.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-01.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-02.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-02.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-03.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-03.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-04.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-04.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-05.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-05.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-06.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-06.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-07.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-07.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-08.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-08.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-09.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-09.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-10.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-10.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-11.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-11.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-12.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-12.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-13.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-13.jpg'">

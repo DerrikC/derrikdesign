@@ -15,7 +15,7 @@ ogImage:
            
 ## Overview 
 
-Amazon delivers products quick and efficiently to their customers with increasingly more automation. But it is still difficult to automate furniture delivery. So I created a concept delivery process specificallu for Amazon's Funiture deliveries. The product is designed to track their delivery drivers and allow their dispatch workers to input customer routing.
+Amazon delivers products quick and efficiently to their customers with increasingly more automation. But it is still difficult to automate furniture delivery. So I created a concept delivery process specifically for Amazon's potential furniture deliveries. The product is designed to track their delivery drivers and allow their dispatch workers to input customer routing.
 
 ## Objective 
 

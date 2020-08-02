@@ -12,7 +12,7 @@ export default function Intro() {
     <section className="flex-col sm:w-auto md:flex-row w-full flex items-center md:justify-between mt-32">
       <div className="md:flex-row md:w-4/5">
       <motion.div initial={{ x: -250, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 0.5 }}>
-      <h1 className="text-5xl md:text-7xl font-bold tracking-tighter leading-tight md:pr-8">
+      <h1 className="text-5xl md:text-7xl font-bold tracking-normal leading-tight md:pr-8">
       Hi, my name is 
       <br></br>
       Derrik Campbell. 
