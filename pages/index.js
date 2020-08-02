@@ -15,7 +15,7 @@ export default function Index({ allPosts }) {
 
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <meta property="og:title" content="My page title" key="title" />
+          <meta property="og:title" content="Derrik Campbell's Portfolio" key="title" />
 
           <meta name="title" content="derrikdesign" />
           <meta name="description" content="" />
