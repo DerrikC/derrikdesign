@@ -17,7 +17,7 @@ ogImage:
 
 ## Overview 
 
-This was a site created alongside the Northern Commerce team members. The idea was to create a concept site and brand for blue light filtered glasses.
+This was a site created alongside team members from Northern Commerce. The idea I came up with was a concept site and brand for selling blue light filtered glasses online.
 
 ## Challenges
 
