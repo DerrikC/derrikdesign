@@ -13,7 +13,7 @@ ogImage:
 | :----- | :------- |
 | Web Designer  &nbsp;| Adobe XD, Illustrator |
 
-[View Prototype](https://xd.adobe.com/view/ac5daf3d-9e51-40b8-916b-b794bc33c408-f90e/) 
+[View Prototype](https://xd.adobe.com/view/ac5daf3d-9e51-40b8-916b-b794bc33c408-f90e/?fullscreen) 
 
 ## Overview
 
@@ -30,3 +30,8 @@ I designed the brand identity through the use of a logo design, vector illustrat
 Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. 
 
 <img src="/assets/blog/project-content/custom_icons_cybersecurity.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/custom_icons_cybersecurity.jpg'">
+
+## Final Product
+
+<img src="/assets/blog/project-content/cybersecurity_mockup.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/cybersecurity_mockup.jpg'">
+
