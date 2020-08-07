@@ -22,10 +22,10 @@ ogImage:
 Create a fully responsive infographic web application that provides information about sickle cell disease, but that can also be made as a long form infographic poster. 
 
 ## Style Guide
-<br>
+
+I chose pastel colours to be eye catching but also reduce the harshness of the reds in the design. 
+<br></br>
 <img src="/assets/blog/project-content/infograph_styleguide.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/infograph_styleguide.jpg'">
 <br>
-I chose pastel colours to be eye catching but also reduce the harshness of the reds in the design. 
-
 
 

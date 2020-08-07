@@ -21,12 +21,12 @@ In my spare time I create digital paintings. I am constantly learning new techni
 ## Posters
 
 I created Netflix title poster for a concept Ice Cube documentary. 
-
 ![project_image](../assets/blog/preview/icecube.png)
-
-This is a poster for the comedian Joe Rogan's comedy special 'Strange Times'.
+<br></br>
 
 ![project_image](../assets/blog/preview/joerogan.jpg)
+
+This is a poster for the comedian Joe Rogan's comedy special 'Strange Times'.
 
 ## Concept Art
 
