@@ -28,12 +28,13 @@ const about = () => (
         <h2 className="text-5xl md:text-6xl font-bold tracking-normal leading-tight md:pr-8">Let's get Working</h2>
         <br></br>
         <p>Want to work on a project, or get to know me? Just contact me at <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=derrikdesign@gmail.com">derrikdesign@gmail.com</a>, or connect on <a href="https://www.linkedin.com/in/derrikcampbell/">LinkedIn</a>!</p>
+        <a href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:cd22260c-6352-4bf3-b17b-8b776d04d607" class="btn btn-outline-dark" size="sm">Resume</a>
         </div>
-        <div className="w-full md:w-1/3 pt-2 pr-10">
         
+        <div className="w-full md:w-1/3 pt-2 pr-10">
+        <br></br>
         <img className="profile-image shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl" variant="top" img src="/assets/blog/author/profile.jpg"/>
         </div>
-        {/* <Button variant="outline-dark" size="sm">View Resume</Button> */}
         </div>
         </motion.div>
         </div>
