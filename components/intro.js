@@ -55,7 +55,7 @@ export default function Intro() {
 
       </div>
 
-      <motion.img className="sm:flex-row sm:w-3/5 md:w-2/4" variant="top" src="../assets/blog/preview/3daccent.png" 
+      <motion.img className="accent sm:flex-row sm:w-3/5 md:w-2/4" variant="top" src="../assets/blog/preview/3daccent.png" 
       initial= {{ y: 15 }} 
       animate={{ y: 0 }} 
       transition={{ yoyo: Infinity, duration: 4 }}>

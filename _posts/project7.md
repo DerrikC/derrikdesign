@@ -1,35 +1,38 @@
 ---
 title: 'Exploration'
-excerpt: 'Illustration'
-coverImage: '/assets/blog/preview/cover.jpg'
+excerpt: 'Visuals & Video'
+coverImage: '/assets/blog/preview/space.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Illustration
+  name: Visuals
   picture: '/assets/blog/author/placeholderIcon.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url:  '/assets/blog/preview/space.jpg'
+
 ---
 
 | Role   | Tools    | 
 | :----- | :------- |
-| Artist &nbsp;| Illustrator, Photoshop, Procreate |
+| Designer &nbsp;| Illustrator, Photoshop |
 
-## Overview
+[View Site](https://www.derrikxavier.com) 
 
-In my spare time I create digital paintings. I am constantly learning new techniques and trying to apply my illustrations to practical design. 
+## Overview 
 
-## Posters
+This is a collection of logo designs, vector designs, and 3D work I have created. 
 
-I created Netflix title poster for a concept Ice Cube documentary. 
-![project_image](../assets/blog/preview/icecube.png)
-<br></br>
+<img src="/assets/blog/preview/space.webp" onerror="this.onerror=null; this.src='/assets/blog/preview/space.jpg'">
 
-![project_image](../assets/blog/preview/joerogan.jpg)
+Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. 
 
-This is a poster for the comedian Joe Rogan's comedy special 'Strange Times'.
+## Logo Marks
 
-## Concept Art
+A collection of marks I have created over the past few years. 
 
-Currently I've been fascinated with space and so I have been exploring alien character designs. 
+## Videos
 
-![project_image](../assets/blog/preview/cover.jpg)
+Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper.
+
+## 3D Design
+
+Designs I create in my free time using cinema 4d.

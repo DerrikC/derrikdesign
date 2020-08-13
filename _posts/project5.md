@@ -1,31 +1,35 @@
 ---
-title: 'Sickle Cell Anemia'
-excerpt: 'Infographic'
-coverImage: '/assets/blog/preview/infograph_cover.jpg'
+title: 'Exploration'
+excerpt: 'Illustration'
+coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Infographic
+  name: Illustration
   picture: '/assets/blog/author/placeholderIcon.jpeg'
 ogImage:
-  url:  '/assets/blog/preview/infograph_cover.jpg'
-
+  url: '/assets/blog/preview/cover.jpg'
 ---
 
 | Role   | Tools    | 
 | :----- | :------- |
-| Designer & Developer  &nbsp;| HTML5, CSS3, JS, Node.js, Illustrator, MySQL |
-
-[Load App](https://sickle-cell-infographic.herokuapp.com/) 
+| Artist &nbsp;| Illustrator, Photoshop, Procreate |
 
 ## Overview
 
-Create a fully responsive infographic web application that provides information about sickle cell disease, but that can also be made as a long form infographic poster. 
+In my spare time I create digital paintings. I am constantly learning new techniques and trying to apply my illustrations to practical design. 
 
-## Style Guide
+## Posters
 
-I chose pastel colours to be eye catching but also reduce the harshness of the reds in the design. 
+I created Netflix title poster for a concept Ice Cube documentary. 
+![project_image](../assets/blog/preview/icecube.png)
 <br></br>
-<img src="/assets/blog/project-content/infograph_styleguide.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/infograph_styleguide.jpg'">
-<br>
 
+![project_image](../assets/blog/preview/joerogan.jpg)
 
+This is a poster for the comedian Joe Rogan's comedy special 'Strange Times'.
+
+## Concept Art
+
+Currently I've been fascinated with space and so I have been exploring alien character designs. 
+
+![project_image](../assets/blog/preview/cover.jpg)
