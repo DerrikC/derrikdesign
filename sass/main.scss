@@ -17,6 +17,11 @@ nav a:hover {
   margin: 0;
 }
 
+//accent hook img
+.accent {
+  padding-bottom: 115px;
+}
+
 //about page
 p a {
     color: $main-accent;
@@ -45,3 +50,10 @@ img[alt='project_gif'] {
   margin: 0 auto;
 }
 
+
+//about page
+
+.about-content p {
+  width:100%;
+  text-align:justify;
+  }
