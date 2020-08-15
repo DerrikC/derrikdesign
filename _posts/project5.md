@@ -1,35 +1,24 @@
 ---
-title: 'Exploration'
-excerpt: 'Illustration'
-coverImage: '/assets/blog/preview/cover.jpg'
+title: 'Amazon Furniture Delivery'
+excerpt: 'UX Design'
+coverImage: '/assets/blog/preview/amazon_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Illustration
-  picture: '/assets/blog/author/placeholderIcon.jpeg'
+  name: UX Design
+  picture: '/assets/blog/author/icon-amazon.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/preview/amazon_cover.jpg'
 ---
-
-| Role   | Tools    | 
+| Role   |  Tools    | 
 | :----- | :------- |
-| Artist &nbsp;| Illustrator, Photoshop, Procreate |
+| UX Designer  &nbsp;| Invision, Adobe Illustrator |
+           
+[View Prototype](https://projects.invisionapp.com/prototype/ckdequ989000rnk01td1wi99n/play) 
 
-## Overview
+## Overview 
 
-In my spare time I create digital paintings. I am constantly learning new techniques and trying to apply my illustrations to practical design. 
+Amazon delivers products quick and efficiently to their customers with increasingly more automation. But it is still difficult to automate furniture delivery. So I created a concept delivery process specifically for Amazon's potential furniture deliveries. The product is designed to track their delivery drivers and allow their dispatch workers to input customer routing.
 
-## Posters
+## Objective 
 
-I created Netflix title poster for a concept Ice Cube documentary. 
-![project_image](../assets/blog/preview/icecube.png)
-<br></br>
-
-![project_image](../assets/blog/preview/joerogan.jpg)
-
-This is a poster for the comedian Joe Rogan's comedy special 'Strange Times'.
-
-## Concept Art
-
-Currently I've been fascinated with space and so I have been exploring alien character designs. 
-
-![project_image](../assets/blog/preview/cover.jpg)
+Create a polished user experience that could allow an Amazon furniture delivery dispatcher to route and add clients to their system.

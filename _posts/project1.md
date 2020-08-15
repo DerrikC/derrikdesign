@@ -27,15 +27,19 @@ I designed the brand identity through the use of a logo design, vector illustrat
 
 ## Custom Icons
 
-I created unique cyber security icons using illustrator, that can be used throughout the product design. 
+The cyber security icons were created using illustrator, and were made to be used throughout the product design. 
 
 <img src="/assets/blog/project-content/custom_icons_cybersecurity.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/custom_icons_cybersecurity.jpg'">
 
 ## Custom Vector Art
 
-I sketched out ideas for the hook image accent, and came up with a modern isometric illustration. 
+Rough ideas were sketched out for the hook image accent. The solution achieved was a modern isometric illustration. 
 
 <img src="/assets/blog/project-content/custom_vector.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/custom_vector.jpg'">
+
+## Logo Mark
+
+<img src="/assets/blog/project-content/cybersafelogo.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/cybersafelogo.jpg'">
 
 ## Final Product
 

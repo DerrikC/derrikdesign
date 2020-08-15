@@ -16,19 +16,23 @@ ogImage:
 
 ## Overview 
 
-I designed a fully responsive e-commerce website in Sketch for selling Bonsai trees. 
+Designed a fully responsive e-commerce website in Sketch for selling Bonsai trees. 
 
 ## Wireframe Sketches
 
-I often sketch out rough wireframe ideas on my ipad or on paper.
+Sketches will often start out with rough wireframe ideas on my ipad or on paper.
 
 <img src="/assets/blog/project-content/bonsai_sketch.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/bonsai_sketch.jpg'">
 
 ## Wireframes
 
-After my sketches are done, I'll create structured wireframes inside Sketch, Invision, or Adobe XD. 
+After sketches are completed, I'll create structured wireframes inside Sketch, Invision, or Adobe XD. 
 
 <img src="/assets/blog/project-content/Bloovu_StyleGuide-05.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/bonsai_wireframe.png'">
+
+### Desktop 
+
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-05.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/bonsaidesktop.jpg'">
 
 ## Style Guide
 I made sure to incorporate a vibrant green to compliment the trees and contrast the bold blue.
