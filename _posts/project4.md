@@ -5,7 +5,7 @@ coverImage: '/assets/blog/preview/infograph_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Infographic
-  picture: '/assets/blog/author/placeholderIcon.jpeg'
+  picture: '/assets/blog/author/icon-sicklecell.jpg'
 ogImage:
   url:  '/assets/blog/preview/infograph_cover.jpg'
 
@@ -19,7 +19,7 @@ ogImage:
 
 ## Overview
 
-Create a fully responsive infographic web application that provides information about sickle cell disease, but that can also be made as a long form infographic poster. 
+Created a fully responsive and interactive infographic web application that provides information about sickle cell disease. The infographic is a medical education application for people who want to learn about the disease.
 
 ## Style Guide
 
@@ -28,4 +28,6 @@ I chose pastel colours to be eye catching but also reduce the harshness of the r
 <img src="/assets/blog/project-content/infograph_styleguide.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/infograph_styleguide.jpg'">
 <br>
 
+## Final Product
 
+<img src="/assets/blog/project-content/sicklecell_mockup.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/sicklecell_mockup.jpg'">

@@ -1,38 +1,56 @@
 ---
-title: 'Exploration'
-excerpt: 'Visuals & Video'
-coverImage: '/assets/blog/preview/space.jpg'
+title: 'Bloovu'
+excerpt: 'Web Design'
+coverImage: '/assets/blog/preview/bloovu_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Visuals
-  picture: '/assets/blog/author/placeholderIcon.jpeg'
+  name: Web & Brand Design
+  picture: '/assets/blog/author/icon-bloovu.jpeg'
 ogImage:
-  url:  '/assets/blog/preview/space.jpg'
-
+  url: '/assets/blog/preview/bloovu_cover.jpg'
 ---
-
 | Role   | Tools    | 
 | :----- | :------- |
-| Designer &nbsp;| Illustrator, Photoshop |
+| Designer & Developer  &nbsp;| Liquid(Shopify), HTML5, CSS3, Illustrator, Photoshop |
 
-[View Site](https://www.derrikxavier.com) 
+[View Site](https://derrikxavier-fanshawe.myshopify.com/?_ab=0&_fd=0&_sc=1&key=3d3fc8ce0fd8e9001c0f73b8892f33754cc481de3d038dcfd0297cd4081dcb93) 
 
 ## Overview 
 
-This is a collection of logo designs, vector designs, and 3D work I have created. 
+This was a site created alongside team members from Northern Commerce. The idea I came up with was a concept site and brand for selling blue light filtered glasses online.
 
-<img src="/assets/blog/preview/space.webp" onerror="this.onerror=null; this.src='/assets/blog/preview/space.jpg'">
+## Challenges
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. 
+Learning Shopify coding language liquid, implementing proper visual studio code methods when using custom Shopify development.
 
-## Logo Marks
+## Solution 
 
-A collection of marks I have created over the past few years. 
+I took the Shopify Partner courses to keep up to date with best pratices.
 
-## Videos
+## Style Guide
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper.
-
-## 3D Design
-
-Designs I create in my free time using cinema 4d.
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-01.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-01.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-02.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-02.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-03.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-03.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-04.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-04.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-05.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-05.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-06.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-06.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-07.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-07.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-08.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-08.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-09.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-09.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-10.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-10.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-11.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-11.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-12.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-12.jpg'">
+<br>
+<img src="/assets/blog/project-content/Bloovu_StyleGuide-13.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/Bloovu_StyleGuide-13.jpg'">
