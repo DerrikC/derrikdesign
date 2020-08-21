@@ -46,6 +46,5 @@ Create a polished user experience that could allow an Amazon Furniture delivery 
 <img src="/assets/blog/project-content/amazon_casestudy-10.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/amazon_casestudy-10.jpg'">
 <br>
 <img src="/assets/blog/project-content/amazon_casestudy-11.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/amazon_casestudy-11.jpg'">
-<br>
-<img src="/assets/blog/project-content/amazon_casestudy-12.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/amazon_casestudy-12.jpg'">
+
 
