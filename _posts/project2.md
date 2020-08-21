@@ -1,5 +1,5 @@
 ---
-title: 'Bonsai'
+title: 'Nemo Bonsai'
 excerpt: 'Web Design'
 coverImage: '/assets/blog/preview/bonsai_cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
@@ -24,7 +24,7 @@ Sketches will often start out with rough wireframe ideas on my ipad or on paper.
 
 <img src="/assets/blog/project-content/bonsai_sketch.jpg" onerror="this.onerror=null; this.src='/assets/blog/project-content/bonsai_sketch.jpg'">
 
-## Wireframes
+## Responsive Wireframes
 
 After sketches are completed, I'll create structured wireframes inside Sketch, Invision, or Adobe XD. 
 
