@@ -20,7 +20,7 @@ In my spare time I create digital paintings. I am constantly learning new techni
 
 ## Posters
 
-I created Netflix title poster for a concept Ice Cube documentary. 
+I created a Netflix title poster for a concept Ice Cube documentary. 
 ![project_image](../assets/blog/preview/icecube.png)
 <br></br>
 

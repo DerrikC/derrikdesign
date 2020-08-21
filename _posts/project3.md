@@ -12,7 +12,7 @@ ogImage:
 
 | Role   | Tools    | 
 | :----- | :------- |
-| Designer & Marketer  &nbsp;| Illustrator, Photoshop, AfterEffects|
+| Designer & Marketer  &nbsp;| Illustrator, Photoshop, AfterEffects, DSLR Camera|
 
 ## Overview
 
