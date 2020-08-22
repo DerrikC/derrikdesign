@@ -21,7 +21,10 @@ Lunachat is a messenger chat application that is open to
 the public. Users can create a nickname or be
 anonymous when using the application.
 
-## Style Guide
+## Logo Mark
 
-I selected dark mode colours for the application's branding.
+<img src="/assets/blog/project-content/lunachat_logo.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/lunachat_logo.jpg'">
 
+## Final Product
+
+<img src="/assets/blog/project-content/lunachat_mobile.webp" onerror="this.onerror=null; this.src='/assets/blog/project-content/lunachat_mobile.jpg'">
