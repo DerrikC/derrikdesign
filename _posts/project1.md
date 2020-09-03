@@ -17,9 +17,7 @@ ogImage:
 
 ## Overview
 
-CyberSafe is a concept cyber security startup that offers digital protection solutions for businesses. 
-
-I designed the brand identity through the use of a logo design, vector illustrations and custom icons. 
+CyberSafe is a concept cyber security startup that offers digital protection solutions for businesses. I designed the brand identity through the use of a logo design, vector illustrations and custom icons. 
 
 ## Style Guide
 <br>
