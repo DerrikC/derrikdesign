@@ -25,7 +25,7 @@ Learning Shopify coding language liquid, implementing proper visual studio code 
 
 ## Solution 
 
-I took the Shopify Partner courses to keep up to date with best pratices.
+I took the Shopify Partner courses to keep up to date with best practices.
 
 ## Style Guide
 
