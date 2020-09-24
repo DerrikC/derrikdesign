@@ -21,7 +21,7 @@ This was a site created alongside team members from Northern Commerce. The idea 
 
 ## Challenges
 
-Learning Shopify coding language liquid, implementing proper visual studio code methods when using custom Shopify development.
+Learning Shopify's coding language liquid, and implementing proper visual studio code methods when using custom Shopify development.
 
 ## Solution 
 
