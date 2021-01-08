@@ -32,7 +32,7 @@ export default function Intro() {
       ]}
       />
        <br/>
-      Recent graduate.
+      Design graduate.
       </motion.h2>
       <br/>
 
