@@ -15,7 +15,7 @@
     "framer-motion": "^2.0.1",
     "gray-matter": "4.0.2",
     "next": "latest",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "react": "^16.13.0",
     "react-autosize-textarea": "^7.0.0",
     "react-bootstrap": "^1.2.2",
